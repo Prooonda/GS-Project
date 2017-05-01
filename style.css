@@ -4,12 +4,12 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #561530;
-
-    body{
+}
+    body {
     background-image: url("1%20global%20studies%20-%20World_in_hands.jpg");
     background-color: #cccccc;
 }
-}
+
  @font-face {
     font-family: bubble;
     src: url(Azzzz.ttf);
