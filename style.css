@@ -4,7 +4,16 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #561530;
+
+    
 }
+ @font-face {
+    font-family: bubble;
+    src: url(AzzurBubblegum (1).ttf);
+
+} p {
+	font-family: bubble;
+   	 margin:20px; }
 
 li {
     float: left;
