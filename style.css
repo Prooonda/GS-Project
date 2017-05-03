@@ -19,11 +19,7 @@ div { font-family: bubble;
  @font-face {
     font-family: bubble;
     src: url(Azzzz.ttf);
-
-} h1 {
-	font-family: bubble;
-   	 margin:20px; }
-
+} 
 li {
     float: left;
 }
@@ -42,7 +38,10 @@ li a:hover {
 }
 
 h1 {
-    color : #54FF46    ; font size:20px; 
+    color : #54FF46;
+	font size:20px; 
+	font-family: bubble;
+   margin:20px; }
 }
 p {
     color : #54FF46    ; font size:20px;
