@@ -42,11 +42,12 @@ li a:hover {
 }
 
 h1 {
-    color : #54FF46
+    color : #54FF46    ; font size:20px; 
 }
 p {
-    color : #54FF46
+    color : #54FF46    ; font size:20px;
 }
 h3 {
     color : #54FF46
+	    ; font size:20px;
 }
