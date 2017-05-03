@@ -22,6 +22,7 @@ div { font-family: bubble;
 } 
 li {
     float: left;
+	font-family: bubble;
 }
 
 li a {
