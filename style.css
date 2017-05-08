@@ -2,6 +2,7 @@ img {
     margin: center;
     text-align: center;
 	margin: auto;
+	display: block;
 }
 
 
