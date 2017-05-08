@@ -1,7 +1,7 @@
 img {
-
     margin: center;
     text-align: center;
+	margin: auto;
 }
 
 
@@ -72,11 +72,4 @@ img.center {
     display: block;
     margin: 0 auto;
 }
-.center {
-    position: absolute;
-    left: 0;
-    top: 50%;
-    width: 100%;
-    text-align: center;
-    font-size: 18px;
-}
+-
