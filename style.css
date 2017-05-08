@@ -72,3 +72,9 @@ img.center {
     display: block;
     margin: 0 auto;
 }
+.center {
+    position: absolute;
+    left: 0;
+    text-align: center;
+    font-size: 18px;
+}
